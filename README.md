@@ -1,3 +1,2 @@
 # repo
-repo is also known as reposito
-ry
+repo is also known as repository
